@@ -31,6 +31,8 @@ Circuit diagram will be the screenshot
 
 Code will be in the code folder
 
+Or just use the `INO` file
+
 # Steps
 Download the `.ZIP` file and then open the circuit folder and navigate to the diagram, check out video for further details.
 You could use pastebin link --------> https://pastebin.com/31imtHYP for the code
