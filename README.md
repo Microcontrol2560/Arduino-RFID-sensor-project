@@ -26,7 +26,9 @@ Blue and Red LED
 
 # Extra
 Important Information will be in the INFO folder
-Circuit diagram will be in circuit folder
+
+Circuit diagram will be the screenshot
+
 Code will be in the code folder
 
 # Steps
