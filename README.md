@@ -5,14 +5,23 @@ Be sure to check it out!
 
 # Components
 Arduino Uno
+
 RFID sensor
+
 RFID tag
+
 RFID card
+
 Breadboard
+
 Jumper Cables
+
 Passive Buzzer
+
 Servo Motor
+
 Blue and Red LED
+
 220Ω Resistors
 
 # Extra
